@@ -1,40 +1,32 @@
-# **Instagram Clone Tutorial (Android Jetpack Compose)**
+Instagram Clone Tutorial (Android Jetpack Compose)
 
-Aqui temos o código fonte de um tutorial gravado em vídeo disponibilizado gratuitamente no youtube: https://www.youtube.com/watch?v=BqVtfqAxluM&list=PLkwgaJSkQE73zN-1VRuAOwOn4yW6qp5s-
+This is the source code of a video tutorial freely available online.
 
-Conteúdo em português voltado pro público brasileiro e lusófono em geral.
+The content is aimed at Brazilian and Portuguese-speaking audiences but is also useful for developers worldwide.
 
-O tutorial será útil tanto para quem já trabalha com Android nativo e está migrando de XML para Compose quanto para quem está chegando agora no desenvolvimento de aplicativos com Android nativo.
+The tutorial is valuable both for those who already work with native Android and are migrating from XML to Compose, as well as for beginners entering native Android development.
 
-![Insta clone github banner](https://github.com/DiegoLinks/compose-instagram-clone-tutorial/assets/36086232/74a6ba36-3f19-461d-87d5-d517ca28cba8)
+About the Project
 
-## Git flow
+The tutorial project is an Instagram clone, developed in native Android using the Kotlin programming language and Android Studio as the development tool. The screens and project structure are entirely built with Jetpack Compose (Material 3), the latest technology for modern Android applications.
 
-O git flow desse projeto segue o padrão dos episódios do tutorial, cada vídeo é como uma nova “feature”, para facilitar a evolução do código revisões e etc… de quem está seguindo o tutorial. Por exemplo, o código disponível na branch episodio-01 é igual ao código final do vídeo 01 do tutorial, e assim por diante até o código final disponível na branch principal (main).
-
-## Sobre o projeto
-
-O projeto do tutorial é um clone do Instagram, feito em Android navtivo usando a linguagem de programação Kotlin tendo o Android Studio como ferramenta de desenvolvimento. As telas e a estrutura do projeto como um todo é feita com o Jetpack Compose (Material 3), tecnologia mais recente usada para aplicativos Android.
-
-## Resumo com algumas competências trabalhadas durante o tutorial
+Summary of Skills Covered in the Tutorial
 
 Android | Kotlin | Jetpack Compose (Material 3)
-
-* Listas horizontais
-* Listas verticais
-* Implementação de tema escuro (dark mode)
-* Funções composable
-* Compose preview
-* Configurações de tema
-* Configurações de gradle e atualização de bibliotecas
-* Criar e alterar ícone de aplicativos android
-* Carregamento de imagens com Glide
-* Imagens circulares
-* Internacionalização (aplicativo com múltiplos idiomas)
-* Uso de dados mocados
-* Status bar personalizada
-* Fontes de texto personalizadas
-* Configuração e uso de tipografia
-* Padronização de espaçamentos e tamanho de fonte
-* Princípios de refatoração e qualidade de código
-
+->Horizontal lists
+->Vertical lists
+->Dark mode implementation
+->Composable functions
+->Compose preview
+->Theme configurations
+->Gradle setup and library updates
+->Creating and changing Android app icons
+->Image loading with Glide
+->Circular images
+->Internationalization (multi-language support)
+->Use of mocked data
+->Customized status bar
+->Custom fonts
+->Typography setup and usage
+->Standardized spacing and text sizes
+->Refactoring principles and code quality
